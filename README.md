@@ -20,3 +20,6 @@ $ node app.js
 4807526976
 [ 31, 951852169 ]
 ```
+
+## Video Demonstration
+[![Parallel Processing NodeJS CPU Bound Tasks](https://img.youtube.com/vi/ZYfSe9qKaZE/0.jpg)](https://youtu.be/ZYfSe9qKaZE)
